@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "397765789429",
+    "project_id": "selling-test-ntnvf9",
+    "storage_bucket": "selling-test-ntnvf9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397765789429:android:f7324e6ac709a36110a7bc",
+        "android_client_info": {
+          "package_name": "com.mycompany.shopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397765789429-f1cg62gnrtkjqg0etlpp669qk6mp8qsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1K7LdzuqltCuMnih4nq5CY15U9Ha7nW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397765789429-f1cg62gnrtkjqg0etlpp669qk6mp8qsu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "397765789429-4ndeb4fuqgph9v1975lrjdmfch2kjjse.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.shopapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
